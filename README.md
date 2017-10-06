@@ -3,7 +3,7 @@ Testing the filter functionality for online shop.
 
 Technologies used:
 - Selenium WebDriver
-- Cucumber for java
+- Cucumber + java
 - Gecko driver for Mozilla Firefox
 
 Used following libraries:
