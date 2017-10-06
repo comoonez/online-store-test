@@ -6,6 +6,7 @@ Testing the filter functionality for online shop.
 Used following libraries:
 
 byte-buddy.1.7.5.jar
+
 client-combined-3.6.0.jar
 cobertura-2.1.1.jar
 commons-codec-1.10.jar
