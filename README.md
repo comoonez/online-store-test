@@ -1,7 +1,10 @@
 # online-store-test
 Testing the filter functionality for online shop.
 
-
+Technologies used:
+- Selenium WebDriver
+- Cucumber for java
+- Gecko driver for Mozilla Firefox
 
 Used following libraries:
 
