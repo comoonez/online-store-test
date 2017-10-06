@@ -5,11 +5,10 @@ Testing the filter functionality for online shop.
 
 Used following libraries:
 
-byte-buddy.1.7.5.jar
-
-client-combined-3.6.0.jar
-cobertura-2.1.1.jar
-commons-codec-1.10.jar
+*byte-buddy.1.7.5.jar
+*client-combined-3.6.0.jar
+*cobertura-2.1.1.jar
+*commons-codec-1.10.jar
 commons-exec-1.3.jar
 commons-logging-1.2.jar
 cucumber-core-1.2.5.jar
