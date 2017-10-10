@@ -15,7 +15,3 @@ public class MainPage {
 		public WebElement mensShoes;
 		
 }
-
-//loginPage = PageFactory.initElements(driver, LoginPage.class); 
-
-//modal-dialog advertPopup
